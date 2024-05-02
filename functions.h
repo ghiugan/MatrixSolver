@@ -1,6 +1,5 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
-// DO NOT change anything here. You will not submit this file.
 // Function prototypes
 void generateMatrix(int rows, int cols, double matrix[rows][cols]);
 void printMatrix(int rows, int cols, double matrix[rows][cols]);
